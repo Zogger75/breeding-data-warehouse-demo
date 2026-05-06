@@ -1,0 +1,6 @@
+trial_id,trial_name,crop,trial_year,location_id,design,rep_count
+TR2025SW,2025 Swift Current Wheat Trial,Wheat,2025,LOC001,RCB,3
+TR2025RG,2025 Regina Wheat Trial,Wheat,2025,LOC002,RCB,3
+TR2025IH,2025 Indian Head Wheat Trial,Wheat,2025,LOC003,Lattice,2
+TR2025SK,2025 Saskatoon Wheat Trial,Wheat,2025,LOC004,RCB,3
+TR2025MF,2025 Melfort Wheat Trial,Wheat,2025,LOC005,Lattice,2

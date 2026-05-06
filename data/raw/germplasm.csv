@@ -1,0 +1,9 @@
+germplasm_id,line_name,line_type,pedigree
+G001,CDC Verona,Check,AC Barrie/CDC Teal
+G002,CDC Defy,Check,CDC Verona/BW102
+G003,CDC Falcon,Check,HY320/CDC Kernen
+G004,SCBW001,Experimental,CDC Verona/SCBW045
+G005,SCBW002,Experimental,CDC Defy/SCBW062
+G006,SCBW003,Experimental,CDC Falcon/SCBW071
+G007,SCBW004,Experimental,BW102/CDC Verona
+G008,SCBW005,Experimental,PT472/CDC Defy

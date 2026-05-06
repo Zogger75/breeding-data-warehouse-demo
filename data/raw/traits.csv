@@ -1,0 +1,8 @@
+trait_id,trait_name,trait_category,unit,data_type
+T001,Yield,Agronomic,kg/ha,numeric
+T002,Height,Agronomic,cm,numeric
+T003,Maturity,Agronomic,days,numeric
+T004,Protein,Quality,%,numeric
+T005,TestWeight,Quality,kg/hL,numeric
+T006,DiseaseScore,Disease,1-9,numeric
+T007,Lodging,Agronomic,1-9,numeric

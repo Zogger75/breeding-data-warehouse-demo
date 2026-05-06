@@ -1,0 +1,6 @@
+location_id,location_name,province,country,latitude,longitude
+LOC001,Swift Current,SK,Canada,50.2851,-107.7972
+LOC002,Regina,SK,Canada,50.4452,-104.6189
+LOC003,Indian Head,SK,Canada,50.5333,-103.6670
+LOC004,Saskatoon,SK,Canada,52.1579,-106.6702
+LOC005,Melfort,SK,Canada,52.8564,-104.6101
