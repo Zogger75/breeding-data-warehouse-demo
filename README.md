@@ -126,6 +126,7 @@ This prints expected versus actual row counts and sample analytics results.
 
 ```bash
 python -m analytics.export_sample_outputs
+python -m analytics.export_data_quality_report
 ```
 
 This creates reviewer-friendly CSV files in:
@@ -140,6 +141,7 @@ Current sample outputs include:
 - `trial_completeness.csv`
 - `trait_summary_by_location.csv`
 - `germplasm_performance.csv`
+- 'data_quality_report.csv'
 
 ## Run Tests
 

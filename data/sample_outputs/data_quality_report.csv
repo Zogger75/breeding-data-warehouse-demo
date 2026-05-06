@@ -1,0 +1,20 @@
+check_name,status,details
+locations_file_exists,PASS,C:\Users\yatess\source\repos\breeding-data-warehouse-demo\data\raw\locations.csv
+germplasm_file_exists,PASS,C:\Users\yatess\source\repos\breeding-data-warehouse-demo\data\raw\germplasm.csv
+traits_file_exists,PASS,C:\Users\yatess\source\repos\breeding-data-warehouse-demo\data\raw\traits.csv
+trials_file_exists,PASS,C:\Users\yatess\source\repos\breeding-data-warehouse-demo\data\raw\trials.csv
+observations_file_exists,PASS,C:\Users\yatess\source\repos\breeding-data-warehouse-demo\data\raw\observations.csv
+locations_required_columns,PASS,All required columns are present.
+germplasm_required_columns,PASS,All required columns are present.
+traits_required_columns,PASS,All required columns are present.
+trials_required_columns,PASS,All required columns are present.
+observations_required_columns,PASS,All required columns are present.
+observation_trial_ids_are_valid,PASS,All references are valid.
+observation_germplasm_ids_are_valid,PASS,All references are valid.
+observation_trait_ids_are_valid,PASS,All references are valid.
+yield_values_are_numeric_and_non_negative,PASS,Checked 16 yield observations.
+dim_location_row_count,PASS,Expected 5; actual 5.
+dim_germplasm_row_count,PASS,Expected 8; actual 8.
+dim_trait_row_count,PASS,Expected 7; actual 7.
+dim_trial_row_count,PASS,Expected 5; actual 5.
+fact_observation_row_count,PASS,Expected 40; actual 40.
