@@ -1,8 +1,8 @@
 # Breeding Data Warehouse Demo
 
-A portfolio data engineering project demonstrating how raw crop breeding trial data can be transformed into an analytics-ready warehouse.
+![Python Tests](https://github.com/Zogger75/breeding-data-warehouse-demo/actions/workflows/python-tests.yml/badge.svg)
 
-The project uses realistic wheat breeding trial data to show:
+A portfolio data engineering project demonstrating how raw crop breeding trial data can be transformed into an analytics-ready warehouse.The project uses realistic wheat breeding trial data to show:
 
 - CSV data ingestion
 - Data validation
