@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Build/output folders
+build/
+dist/
+*.egg-info/
+
+# Local database/output files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
