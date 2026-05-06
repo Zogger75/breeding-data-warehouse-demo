@@ -1,0 +1,6 @@
+trial_year,location_name,trait_name,unit,observation_count,avg_value,min_value,max_value
+2025,Indian Head,Protein,%,8,13.21,12.8,13.8
+2025,Regina,Yield,kg/ha,8,4540.63,4215.0,4805.0
+2025,Saskatoon,DiseaseScore,1-9,8,3.13,2.0,5.0
+2025,Swift Current,Height,cm,8,88.75,84.0,93.0
+2025,Swift Current,Yield,kg/ha,8,4706.88,4390.0,4975.0

@@ -1,0 +1,33 @@
+germplasm_id,line_name,line_type,trait_name,unit,observation_count,avg_value,min_value,max_value
+G003,CDC Falcon,Check,DiseaseScore,1-9,1,5.0,5.0,5.0
+G001,CDC Verona,Check,DiseaseScore,1-9,1,4.0,4.0,4.0
+G007,SCBW004,Experimental,DiseaseScore,1-9,1,4.0,4.0,4.0
+G002,CDC Defy,Check,DiseaseScore,1-9,1,3.0,3.0,3.0
+G006,SCBW003,Experimental,DiseaseScore,1-9,1,3.0,3.0,3.0
+G004,SCBW001,Experimental,DiseaseScore,1-9,1,2.0,2.0,2.0
+G005,SCBW002,Experimental,DiseaseScore,1-9,1,2.0,2.0,2.0
+G008,SCBW005,Experimental,DiseaseScore,1-9,1,2.0,2.0,2.0
+G005,SCBW002,Experimental,Height,cm,1,93.0,93.0,93.0
+G008,SCBW005,Experimental,Height,cm,1,92.0,92.0,92.0
+G002,CDC Defy,Check,Height,cm,1,91.0,91.0,91.0
+G006,SCBW003,Experimental,Height,cm,1,89.0,89.0,89.0
+G004,SCBW001,Experimental,Height,cm,1,88.0,88.0,88.0
+G007,SCBW004,Experimental,Height,cm,1,87.0,87.0,87.0
+G001,CDC Verona,Check,Height,cm,1,86.0,86.0,86.0
+G003,CDC Falcon,Check,Height,cm,1,84.0,84.0,84.0
+G003,CDC Falcon,Check,Protein,%,1,13.8,13.8,13.8
+G006,SCBW003,Experimental,Protein,%,1,13.5,13.5,13.5
+G001,CDC Verona,Check,Protein,%,1,13.4,13.4,13.4
+G007,SCBW004,Experimental,Protein,%,1,13.2,13.2,13.2
+G002,CDC Defy,Check,Protein,%,1,13.1,13.1,13.1
+G005,SCBW002,Experimental,Protein,%,1,13.0,13.0,13.0
+G004,SCBW001,Experimental,Protein,%,1,12.9,12.9,12.9
+G008,SCBW005,Experimental,Protein,%,1,12.8,12.8,12.8
+G005,SCBW002,Experimental,Yield,kg/ha,2,4857.5,4740.0,4975.0
+G008,SCBW005,Experimental,Yield,kg/ha,2,4847.5,4805.0,4890.0
+G004,SCBW001,Experimental,Yield,kg/ha,2,4715.0,4620.0,4810.0
+G007,SCBW004,Experimental,Yield,kg/ha,2,4670.0,4615.0,4725.0
+G006,SCBW003,Experimental,Yield,kg/ha,2,4607.5,4555.0,4660.0
+G002,CDC Defy,Check,Yield,kg/ha,2,4590.0,4495.0,4685.0
+G001,CDC Verona,Check,Yield,kg/ha,2,4400.0,4280.0,4520.0
+G003,CDC Falcon,Check,Yield,kg/ha,2,4302.5,4215.0,4390.0

@@ -1,0 +1,9 @@
+germplasm_id,line_name,line_type,yield_observation_count,avg_yield_kg_ha
+G005,SCBW002,Experimental,2,4857.5
+G008,SCBW005,Experimental,2,4847.5
+G004,SCBW001,Experimental,2,4715.0
+G007,SCBW004,Experimental,2,4670.0
+G006,SCBW003,Experimental,2,4607.5
+G002,CDC Defy,Check,2,4590.0
+G001,CDC Verona,Check,2,4400.0
+G003,CDC Falcon,Check,2,4302.5
